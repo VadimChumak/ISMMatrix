@@ -1,0 +1,6 @@
+C:\Users\vadim\Desktop\Програмування\2 курс\PI\ISMMatrix\ISMMatrix\bin\Debug\ISMMatrix.exe.config
+C:\Users\vadim\Desktop\Програмування\2 курс\PI\ISMMatrix\ISMMatrix\bin\Debug\ISMMatrix.exe
+C:\Users\vadim\Desktop\Програмування\2 курс\PI\ISMMatrix\ISMMatrix\bin\Debug\ISMMatrix.pdb
+C:\Users\vadim\Desktop\Програмування\2 курс\PI\ISMMatrix\ISMMatrix\obj\Debug\ISMMatrix.csprojResolveAssemblyReference.cache
+C:\Users\vadim\Desktop\Програмування\2 курс\PI\ISMMatrix\ISMMatrix\obj\Debug\ISMMatrix.exe
+C:\Users\vadim\Desktop\Програмування\2 курс\PI\ISMMatrix\ISMMatrix\obj\Debug\ISMMatrix.pdb
